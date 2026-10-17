@@ -41,7 +41,7 @@ Google Translate converts text from one language to another, and then it's gone.
 |---|---|
 | Language | Python 3 |
 | Front end / UI | [Streamlit](https://streamlit.io/) |
-| AI model | Google Gemma) |
+| AI model | Google Gemma |
 | Data validation / structured output | [Pydantic](https://docs.pydantic.dev/) |
 | Data handling and storage | [pandas](https://pandas.pydata.org/) with a local CSV file |
 
