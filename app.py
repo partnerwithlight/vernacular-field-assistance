@@ -120,7 +120,7 @@ with col2:
                     original_input = user_input
 
                 response = client.models.generate_content(
-                    model='gemini-3.8-flash',
+                    model='gemma-4-26b-a4b-it',
                     contents=contents,
                     config=types.GenerateContentConfig(
                         system_instruction=system_prompt,
